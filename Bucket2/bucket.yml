@@ -1,0 +1,5 @@
+flows:
+  c12b831f-80dc-40f9-9bc8-2a6a8a47a180: {ver: 1, file: flow2-b2.snapshot, author: 'CN=SuperAdministrator,
+      OU=NiFi', created: 1646223072529, flowName: flow2-b2, flowDesc: ''}
+layoutVer: 1
+bucketId: 41b8fe87-f40a-41f5-8b2d-f4f5b29582a5

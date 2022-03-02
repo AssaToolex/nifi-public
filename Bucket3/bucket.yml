@@ -1,0 +1,5 @@
+flows:
+  599ce78a-331c-45b2-8515-a23b78f7eaca: {ver: 1, file: flow3-b3.snapshot, author: 'CN=SuperAdministrator,
+      OU=NiFi', created: 1646223221056, flowName: flow3-b3, flowDesc: ''}
+layoutVer: 1
+bucketId: 83c85bcb-4e44-444d-b7b7-70d076608f3f
